@@ -1,5 +1,5 @@
 # qa-automation-pet
-## ~~go~~
+## ~~manual qa~~
 ###### ___Rome___
 [Мой GitHub] (https://github.com/Andertip32 "Andertip32")
 
